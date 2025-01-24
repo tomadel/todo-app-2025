@@ -1,0 +1,4 @@
+study
+make soup
+make pizza
+clean the code
