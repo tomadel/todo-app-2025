@@ -1,5 +1,4 @@
-study
 make soup
-make pizza
-clean the code
-learn german
+learn pythonstudy german
+eat healty
+study german
